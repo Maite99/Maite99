@@ -1,8 +1,10 @@
 # 👋 Hello, I´m Maite Ramírez
 I'm **Junior Developer Web** from Spain ✨ 
-
+<br>
 🌱 I’m currently learning Angular and Node.js. 
+<br>
 ⚡ I have one year of experience in Frontend and WordPress.
+<br>
 🔭 I'm looking forward to continue learning with real projects. 💫
 
 <p align="center">
